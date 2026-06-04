@@ -1,0 +1,1 @@
+######对于论文《Two-sample distribution tests in high dimensions via max-sliced Wasserstein distance and bootstrapping》的复现
