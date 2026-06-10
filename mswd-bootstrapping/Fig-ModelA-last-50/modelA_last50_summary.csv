@@ -1,0 +1,7 @@
+beta,n_used,proposed_reject_count,proposed_rate,mmd_g_reject_count,mmd_g_rate,ed2_reject_count,ed2_rate,bg_reject_count,bg_rate,pw_reject_count,pw_rate,mswd_l1_reject_count,mswd_l1_rate,smmd_reject_count,smmd_rate,note
+0.0,50,5,0.1,1,0.02,1,0.02,0,0.0,3,0.06,3,0.06,1,0.02,Last 50 complete runs after concatenating files by beta. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.2,50,3,0.06,1,0.02,1,0.02,1,0.02,4,0.08,3,0.06,1,0.02,Last 50 complete runs after concatenating files by beta. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.4,50,16,0.32,9,0.18,9,0.18,3,0.06,5,0.1,16,0.32,10,0.2,Last 50 complete runs after concatenating files by beta. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.6,50,42,0.84,3,0.06,3,0.06,1,0.02,3,0.06,45,0.9,6,0.12,Last 50 complete runs after concatenating files by beta. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.8,50,49,0.98,15,0.3,17,0.34,2,0.04,8,0.16,50,1.0,17,0.34,Last 50 complete runs after concatenating files by beta. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+1.0,50,50,1.0,29,0.58,27,0.54,4,0.08,11,0.22,50,1.0,31,0.62,Last 50 complete runs after concatenating files by beta. MMD-L cannot be recovered because main.py does not print lapmmd_decision.

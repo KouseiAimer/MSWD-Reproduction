@@ -1,0 +1,9 @@
+# This project is verified with the existing local `dl` conda environment:
+# Python 3.10.20, torch==2.6.0+cu126, CUDA 12.6.
+# Torch is intentionally not listed here to avoid re-downloading a multi-GB wheel.
+
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+POT==0.9.6.post1
+matplotlib==3.10.8
