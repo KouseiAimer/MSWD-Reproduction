@@ -1,0 +1,7 @@
+beta,n_used,proposed_reject_count,proposed_rate,mmd_g_reject_count,mmd_g_rate,ed2_reject_count,ed2_rate,bg_reject_count,bg_rate,pw_reject_count,pw_rate,mswd_l1_reject_count,mswd_l1_rate,smmd_reject_count,smmd_rate,note
+0.0,50,4,0.08,1,0.02,1,0.02,0,0.0,2,0.04,5,0.1,1,0.02,Rates are count-weighted across files. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.2,50,3,0.06,1,0.02,1,0.02,1,0.02,3,0.06,3,0.06,1,0.02,Rates are count-weighted across files. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.4,50,14,0.28,9,0.18,9,0.18,3,0.06,4,0.08,15,0.3,10,0.2,Rates are count-weighted across files. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.6,50,42,0.84,4,0.08,4,0.08,1,0.02,4,0.08,45,0.9,7,0.14,Rates are count-weighted across files. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+0.8,50,49,0.98,13,0.26,15,0.3,1,0.02,7,0.14,50,1.0,15,0.3,Rates are count-weighted across files. MMD-L cannot be recovered because main.py does not print lapmmd_decision.
+1.0,50,50,1.0,29,0.58,28,0.56,4,0.08,12,0.24,50,1.0,31,0.62,Rates are count-weighted across files. MMD-L cannot be recovered because main.py does not print lapmmd_decision.

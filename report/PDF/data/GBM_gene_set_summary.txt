@@ -1,0 +1,8 @@
+gene_set n_genes statistic p_value is_significant
+mitotic_cell_cycle 5 9.466548 0.0 1
+mitotic_cell_cycle_process 4 9.464856 0.0 1
+cell_cycle_process 7 10.196108 0.0 1
+cell_cycle 11 15.454372 0.0 1
+DNA_metabolic_process 6 8.72965 0.0 1
+cell_division 5 11.125883 0.0 1
+mitotic_nuclear_division 3 4.1313796 0.0 1

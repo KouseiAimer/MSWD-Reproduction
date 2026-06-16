@@ -1,0 +1,12 @@
+n1 511
+n2 150
+sample_dim 207
+alpha 0.05
+B 500
+selected_lam_l0 50.000003814697266
+mswd_l0 3.986034870147705
+scale 10.768503408463676
+test_statistic 42.92362976074219
+bootstrap_threshold 1.8478721380233765
+p_value 0.0
+reject 1
